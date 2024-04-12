@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agmeeder, Application Specialist at the Rotterdam Public Library
-- 👀 I’m interested in Vue.js, Node.js and Deno
-- 🌱 I’m currently working with Vue 3 with Typescript, Vite, Vuetify, Quasar, Node.js with Typescript and Deno
+- 👀 I’m interested in Vue.js and Go
+- 🌱 I’m currently working with Vue 3 with Typescript, Vite, Tailwind, DaisyUI and Go with Fiber and Pocketbase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Twitter: @ameeder
 
