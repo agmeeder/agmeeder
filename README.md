@@ -2,7 +2,7 @@
 - 👀 I’m interested in Vue.js and Go
 - 🌱 I’m currently working with Vue 3 with Typescript, Vite, Tailwind, DaisyUI and Go with Fiber and Pocketbase
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on Twitter: @ameeder
+- 📫 How to reach me on Bluesky: @a-meeder.bsky.social
 
 <!---
 agmeeder/agmeeder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
